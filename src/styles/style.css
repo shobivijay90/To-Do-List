@@ -1,0 +1,10 @@
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.desc {
+  padding-left: 5px;
+}
+/*# sourceMappingURL=style.css.map */
